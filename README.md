@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/rad-message-board.git
+   git clone [https://github.com/lalomorales22/Single-Page-Posting.git]
    cd rad-message-board
    ```
 
