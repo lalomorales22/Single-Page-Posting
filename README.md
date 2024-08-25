@@ -1,5 +1,11 @@
 # Rad Message Board
 
+<img width="570" alt="Screenshot 2024-08-24 at 11 42 57 PM" src="https://github.com/user-attachments/assets/1fcc01b9-37ae-401b-b3a2-cd5396dc4ce7">
+
+<img width="340" alt="Screenshot 2024-08-24 at 11 42 50 PM" src="https://github.com/user-attachments/assets/77739413-2d80-4377-9709-699e75cc9816"><img width="259" alt="Screenshot 2024-08-24 at 11 43 09 PM" src="https://github.com/user-attachments/assets/06854cae-38f0-42c4-8358-3cddb8c8c1de">
+
+
+
 Rad Message Board is a single-user, Flask-based web application that allows you to create and manage your personal message board. With features like AI-generated images, real-time updates, and a tagging system, it provides a unique and engaging way to capture and organize your thoughts.
 
 ## Features
